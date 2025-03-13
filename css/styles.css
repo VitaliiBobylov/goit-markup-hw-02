@@ -75,7 +75,7 @@ a{
 
 
 .section-btn{
-    background: #2e2f42;  
+    background-color: #2e2f42;  
 }
 .your-business{
 font-weight: 700;
@@ -88,7 +88,7 @@ text-align: center;
 
 
 .hero-button{
-    background: #4d5ae5;
+    background-color: #4d5ae5;
     font-weight: 500;
 font-size: 16px;
 line-height: 1.5;
@@ -137,7 +137,7 @@ color: #434455;
 
 
 .team{
-    background: #f4f4fd;
+    background-color: #f4f4fd;
 }
 .subtitle-team{
 font-weight: 700;
@@ -171,13 +171,13 @@ font-weight: 700;
 font-size: 36px;
 line-height: 1.11;
 letter-spacing: 0.02em;
-background-color: #2e2f42;
+color: #2e2f42;
 text-transform: capitalize;
 text-align: center;
 }
 
 .porfolio-images{
-    background: #fff;
+    background-color: #fff;
     width: 360px;
 height: 420px;
 }
@@ -203,7 +203,7 @@ color: #434455;
 
 
 .footer{
-    background: #2e2f42;
+    background-color: #2e2f42;
 }
 .footer-logo{
     font-family: "Raleway",sans-serif;
