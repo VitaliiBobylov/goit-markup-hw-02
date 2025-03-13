@@ -40,7 +40,7 @@ a{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #2e2f42;
+    color:#2e2f42;
 }
 
 .nav-link:hover{
@@ -50,15 +50,15 @@ a{
 .nav-link:focus{
     color: #404bbf;
 }
-
+.contacts{
+    font-style: normal;
+}
 .contacts-list{
-    font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
-    font-style: normal;
 }
 
 .Contacts-link:hover{
@@ -146,6 +146,7 @@ line-height: 1.11;
 letter-spacing: 0.02em;
 color: #2e2f42;
 text-align: center;
+text-transform: capitalize;
 }
 
 .subtitle-images{
@@ -178,9 +179,7 @@ text-align: center;
 }
 
 .porfolio-images{
-    background-color: #fff;
-    width: 360px;
-height: 420px;
+background-color: #fff;
 }
 
 .porfolio-subtitle{
